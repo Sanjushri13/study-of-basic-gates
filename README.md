@@ -85,11 +85,17 @@ endmodule
 ````
  
 **Logic symbol & Truthtable**
+![image](https://github.com/Sanjushri13/study-of-basic-gates/assets/164732231/eed82115-71fe-4636-a350-b15949c3daaa)
 
 **RTL realization Output:** 
+![image](https://github.com/Sanjushri13/study-of-basic-gates/assets/164732231/a2b21a40-aec3-4be2-af6e-0c67cd2560fd)
 
 **RTL**
+![image](https://github.com/Sanjushri13/study-of-basic-gates/assets/164732231/51060ec6-eae0-4145-a3bf-a13dee00a85f)
+
 
 **Result:**
+
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
