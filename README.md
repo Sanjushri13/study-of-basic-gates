@@ -88,6 +88,7 @@ endmodule
 ![image](https://github.com/Sanjushri13/study-of-basic-gates/assets/164732231/eed82115-71fe-4636-a350-b15949c3daaa)
 
 **RTL realization Output:** 
+
 ![image](https://github.com/Sanjushri13/study-of-basic-gates/assets/164732231/a2b21a40-aec3-4be2-af6e-0c67cd2560fd)
 
 **RTL**
