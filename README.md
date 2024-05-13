@@ -1,3 +1,5 @@
+# Developed by:Sanjushri.A
+# Register number:212223040187
 ### study-of-basic-gates
 
 **AIM:** 
